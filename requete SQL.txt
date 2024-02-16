@@ -1,4 +1,4 @@
 select distinct age, salaire, tel
 from emp
 where slaire >= 30000
-or age >25 and age < 50;
+and age >50;
